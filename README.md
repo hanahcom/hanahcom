@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hanah
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning python, html & css
-- 💞️ I’m looking to collaborate on gaming projects
-- 📫 How to reach me: hanahho on discord
+- 🌱 discord: waavys
 
 <!---
 hanahcom/hanahcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
